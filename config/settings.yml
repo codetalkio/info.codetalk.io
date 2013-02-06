@@ -14,5 +14,5 @@ Staging:
   <<: *defaults
 
 Production:
-  approot: "http://irc.codetalk.io"
+  approot: "http://irc2.codetalk.io"
   <<: *defaults
