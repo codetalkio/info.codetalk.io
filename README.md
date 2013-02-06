@@ -1,0 +1,3 @@
+#Codetalk IRC
+
+This is a simple site for the Codetalk IRC displaying some general information and simple rules...

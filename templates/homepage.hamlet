@@ -1,0 +1,27 @@
+<div #home>
+    <h1>
+        IRC Operators
+    <br />
+    You can direct any questions or such at the IRC operators <b>Tehnix</b>, <b>nRage</b> or <b>Foxboron</b>, or any of the other people appearing on the IRC :) ...
+    
+    <br /><br />
+    
+    <h1>
+        Some simple (neat) rules
+    <br />
+    <b>1)</b> Stick to english. There's people from around the world, and there is nothing worse/more annoying than people not talking in english.<br />
+    <b>2)</b> Code, code, code!<br />
+    <b>3)</b> Sharing is caring, and github is neat...<br />
+    
+    <br />
+    
+    That'll about cover it for now...
+    
+    <br /><br />
+    
+    <h1>
+        Server information
+    <br />
+    <b>Address &nbsp;</b>: irc.codetalk.io<br />
+    <b>Port&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>: 6667<br />
+    <b>SSL Port </b>: 6697<br />
