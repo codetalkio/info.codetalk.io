@@ -1,7 +1,7 @@
 exec: ../dist/build/CodetalkIRC/CodetalkIRC
 args:
     - production
-host: irc2.codetalk.io # This will be used as APPROOT
+host: irc.codetalk.io # This will be used as APPROOT
 ssl: false
 
 # Use the following to automatically copy your bundle upon creation via `yesod
@@ -12,5 +12,5 @@ extra-hosts:
     - "127.0.0.1:8000" 
 
 static-hosts:
-    - host: irc2.codetalk.io/static
+    - host: irc.codetalk.io/static
       root: ../static # relative to config file, just like the executable
