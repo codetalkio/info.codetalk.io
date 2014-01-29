@@ -1,14 +1,23 @@
 <div #home>
     <h1>
-        IRC Operators
-    <br />
-    You can direct any questions or such at the IRC operators <b>Tehnix</b>, <b>nRage</b> or <b>Foxboron</b>, or any of the other people appearing on the IRC :) ...
+        Server information
+    <br>
+    <b>Address </b>: irc.codetalk.io<br>
+    <b>Port&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>: 6667<br>
+    <b>SSL Port </b>: 6697<br>
     
-    <br /><br />
+    <br><br>
+    
+    <h1>
+        IRC Operators
+    <br>
+    You can direct any questions or such to the IRC operators <b>Tehnix</b> or <b>Fox</b>, or any of the other people appearing on the IRC :) ...
+    
+    <br><br>
     
     <h1>
         Some simple (neat) rules
-    <br />
+    <br>
     <ol>
         <li>
             <span>Stick to English. There's people from around the world, and there is nothing worse/more annoying than people not talking in English.
@@ -17,22 +26,13 @@
         <li>
             <span>Sharing is caring, and GitHub is neat
     
-    <br />
+    <br>
     
     That's about it for now...
     
-    <br /><br />
-    
-    <h1>
-        Server information
-    <br />
-    <b>Address </b>: irc.codetalk.io<br />
-    <b>Port&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>: 6667<br />
-    <b>SSL Port </b>: 6697<br />
-    
-    <br /><br />
+    <br><br>
     
     <h1>
         Other stuff
-    <br />
-    We've also got a github organization for various projects etc (it'll grow with time), check it out at <a href="https://github.com/CodetalkDev">githug.com/CodetalkDev</a>
+    <br>
+    We've also got a GitHub organization for various projects etc (it'll grow with time), check it out at <a href="https://github.com/CodetalkDev">GitHub/CodetalkDev</a>

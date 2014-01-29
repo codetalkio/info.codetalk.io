@@ -1,18 +1,26 @@
-.DS_STORE
-*.DS_STORE
-
-dist
-dist/*
-cabal-dev
-cabal-dev/*
-*.o
+# Compilation files
+dist*
 *.hi
-*.chi
-*.chs.h
+*.o
+static/tmp/
+static/combined/
 
-*.swp
+# Development files
+.hsenv*
+yesod-devel/
+.ghci
+.anvil
+cabal-dev/
+cabal.sandbox.config
+.cabal-sandbox/
 *.sqlite3
-static/tmp/*
-BNP.keter
-static/.DS_STORE
-templates/.DS_STORE
+*.keter
+
+# Auto generated files
+*.swp
+._*
+*._*
+*.DS_Store
+
+# Configuration files
+config/client_session_key.aes
