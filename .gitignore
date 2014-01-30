@@ -24,3 +24,4 @@ cabal.sandbox.config
 
 # Configuration files
 config/client_session_key.aes
+config/keter.yaml
