@@ -1,8 +1,9 @@
 Default: &defaults
-  host: "*4"
+  host: "*4" # any IPv4 host
   port: 3000
   approot: "http://localhost:3000"
-  copyright: copyright tehnix 2012
+  copyright: Insert copyright statement here
+  #analytics: UA-YOURCODE
 
 Development:
   <<: *defaults
@@ -14,5 +15,5 @@ Staging:
   <<: *defaults
 
 Production:
-  approot: "http://irc.codetalk.io"
+  #approot: "http://www.example.com"
   <<: *defaults
