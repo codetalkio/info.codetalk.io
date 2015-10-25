@@ -1,27 +1,29 @@
-# Compilation files
-dist*
-*.hi
+dist
+cabal-dev
 *.o
-static/tmp/
-static/combined/
-
-# Development files
-.hsenv*
-yesod-devel/
-.ghci
-.anvil
-cabal-dev/
-cabal.sandbox.config
+*.hi
+*.chi
+*.chs.h
+*.dyn_o
+*.dyn_hi
+.virtualenv
+.hpc
+.hsenv
 .cabal-sandbox/
-*.sqlite3
-*.keter
+cabal.sandbox.config
+*.prof
+*.aux
+*.hp
+.stack-work/
 
-# Auto generated files
-*.swp
-._*
-*._*
-*.DS_Store
+# OS files
+.DS_Store
 
-# Configuration files
-config/client_session_key.aes
-config/keter.yaml
+# Ignore test builds
+tests/Main
+_cache
+_store
+_site
+.sass-cache
+
+site
