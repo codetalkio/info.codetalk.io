@@ -1,0 +1,28 @@
+name:                info-codetalk-io
+version:             2.0.0
+synopsis:            Hakyll website for the info.codetalk.io site
+description:         Please see README.md
+homepage:            https://github.com/codetalkio/info.codetalk.io
+license:             BSD3
+license-file:        LICENSE
+author:              Christian Kjær Laustsen
+maintainer:          ckl@codetalk.io
+-- copyright:
+category:            Web
+build-type:          Simple
+-- extra-source-files:
+cabal-version:       >=1.10
+
+executable hakyll
+  main-is:          site.hs
+  build-depends:    base == 4.*
+                  , hakyll == 4.7.*
+                  , hjsmin == 0.1.*
+                  , text == 1.2.*
+                  , bytestring == 0.10.*
+  ghc-options:      -threaded
+  default-language: Haskell2010
+
+source-repository head
+  type:     git
+  location: https://github.com/codetalkio/info.codetalk.io
