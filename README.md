@@ -1,4 +1,4 @@
-# codetalk.io
+# info.codetalk.io
 Hakyll website for the info.codetalk.io site.
 
 
